@@ -1,3 +1,13 @@
+# Ender 3 V2 Microswiss HeroMe Gen5 firmware based off the awesome Jyers repo
+
+***There is no plans to merge this back to the upstream branch, this is just maintained for my personal use and for others that might find it useful. Merging upstream changes will happen when I get a chance or until I set up automation.***
+
+This is a fork with config setup for use with the [Micro Swiss direct drive system](https://store.micro-swiss.com/products/micro-swiss-direct-drive-extruder) and the [HeroMe Gen 5 cooling system](https://www.thingiverse.com/thing:4460970).
+
+I have a remix of the HeroMe gantry on thingiverse [here](tbc) that the measurements in the config work with.
+
+I have also added Cura start codes to the `Configuration Files` folder in this repo for reference
+
 # Ender 3 V2 Extensible UI
 
 This fork was created with the intention of giving the best possible experience to E3V2 users. However, GitHub, flashing new firmware, etc. can all be quite daunting for new users. Pretty much everything you need to know is here on github, so here's a quick rundown of where to find what you need!
